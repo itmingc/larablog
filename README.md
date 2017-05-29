@@ -1,7 +1,7 @@
 # larablog
 
 
-> 一个 Laravel 5.2 的上手项目 —— 响应式个人博客系统，基于 Laravel 5.2 和 Bootstrap 3
+> 一个 Laravel 5.2 的练习项目 —— 响应式个人博客系统，基于 Laravel 5.2 和 Bootstrap 3
 
 
 ### 特性
@@ -23,7 +23,7 @@
 2. 修改 .env 文件，配置数据库连接参数
 3. 执行数据库迁移 ```php artisan migrate```
 4. 执行数据填充 ```php artisan db:seed```
-5. 更新自动加载 ```composer dump-autoload```
+5. 更新 autoload ```composer dump-autoload```
 6. 后台管理员账号 ```admin``` 密码 ```admin```
 
 
