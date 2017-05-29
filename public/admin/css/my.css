@@ -1,0 +1,14 @@
+input[type="text"], input[type="password"]{line-height: 1.6;}
+/* 按钮样式 */
+.btn1, .btn2, .btn3, .btn4, .btn5{display: inline-block; padding: 2px 5px;  color: #fff; border-radius: 5px; text-align: center; }
+.btn1{background-color: #07B311;} /* 绿色 */
+.btn2{background-color: #D563F0;} /* 紫色 */
+.btn3{background-color: #FC0505;} /* 红色 */
+.btn4{background-color: #009cff;} /* 亮蓝色 */
+.btn5{background-color: #dd01f0;} /* 亮紫色 */
+.btn1:hover{background-color: #57e157; color: #fff; text-decoration: none;}
+.btn2:hover{background-color: #ff9cff; color: #fff; text-decoration: none;}
+.btn3:hover{background-color: #ff6868; color: #fff; text-decoration: none;}
+.btn4:hover{background-color: #3cb3ff; color: #fff; text-decoration: none;}
+.btn5:hover{background-color: #f149ff; color: #fff; text-decoration: none;}
+.btn4, .btn5{padding: 5px 10px;}
