@@ -23,7 +23,7 @@
 2. 修改 .env 文件，配置数据库连接参数
 3. 执行数据库迁移 `php artisan migrate`
 4. 执行数据填充 `php artisan db:seed`
-5. 安装依赖 'composer install'
+5. 安装依赖 `composer install`
 6. 后台管理员账号 `admin` 密码 `admin`
 
 
@@ -33,5 +33,6 @@
 - Layer 弹层 - http://layer.layui.com/
 - Debugbar 调试 - https://github.com/barryvdh/laravel-debugbar
 - DbExporter 数据库导出 - https://github.com/nWidart/DbExporter
+  
 
 > 注意哈，后台略丑 ─=≡Σ(((つ•̀ω•́)つ
