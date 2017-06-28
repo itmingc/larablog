@@ -19,12 +19,12 @@
 
 ### 使用
 
-1. 克隆项目 ```git clone https://github.com/itmingc/larablog.git```
+1. 克隆项目 `git clone https://github.com/itmingc/larablog.git`
 2. 修改 .env 文件，配置数据库连接参数
-3. 执行数据库迁移 ```php artisan migrate```
-4. 执行数据填充 ```php artisan db:seed```
-5. 更新 autoload ```composer dump-autoload```
-6. 后台管理员账号 ```admin``` 密码 ```admin```
+3. 执行数据库迁移 `php artisan migrate`
+4. 执行数据填充 `php artisan db:seed`
+5. 安装依赖 'composer install'
+6. 后台管理员账号 `admin` 密码 `admin`
 
 
 ### 插件
