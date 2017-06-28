@@ -1,7 +1,7 @@
 # larablog
 
 
-> 一个 Laravel 5.2 的练习项目 —— 响应式个人博客系统，基于 Laravel 5.2 和 Bootstrap 3
+> 一个 Laravel 5.2 的练习项目 —— 响应式个人博客系统，基于 Laravel 5.2 和 Bootstrap 3。
 
 
 ### 特性
@@ -11,7 +11,7 @@
 - 无限级分类
 - 根据文章标签，自动更新标签信息和引用计数
 - 网站配置写入数据库，同步到配置文件 config/web.php
-- 关键字搜索，自动识别标签，分类，作者名，文章标题，和文章概述
+- 关键字搜索，自动识别标签、分类、作者名、文章标题和文章概述
 - 使用缓存
 - 自定义分页样式，在 app/Customer 目录内
 - 响应式，支持移动端
@@ -33,3 +33,5 @@
 - Layer 弹层 - http://layer.layui.com/
 - Debugbar 调试 - https://github.com/barryvdh/laravel-debugbar
 - DbExporter 数据库导出 - https://github.com/nWidart/DbExporter
+
+> 注意哈，后台略丑 ─=≡Σ(((つ•̀ω•́)つ
